@@ -1,5 +1,5 @@
 # RON-20 Protocol
-RON-20 Protocol base on ROIN blockchain writing the string into the memo field of the transaction to achieve this.
+RON-20 Protocol base on Ronin blockchain writing the string into the memo field of the transaction to achieve this.
 ## Method
  - Deploy:
    ```
